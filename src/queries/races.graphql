@@ -1,0 +1,14 @@
+query Races {
+  races {
+    name
+    size
+    speed
+    languages {
+      name
+    }
+    subraces {
+      name
+      desc
+    }
+  }
+}

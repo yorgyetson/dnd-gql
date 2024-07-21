@@ -1,0 +1,6 @@
+query Alignments {
+  alignments {
+    name
+    desc
+  }
+}
