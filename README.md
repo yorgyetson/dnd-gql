@@ -4,7 +4,7 @@ This is a simple example of using graphql-codegen to autogenerate queries to the
 
 ### `git clone https://github.com/yorgyetson/dnd-gql.git`
 
-### `cd gng-gql`
+### `cd dnd-gql`
 
 ### `npm i`
 
